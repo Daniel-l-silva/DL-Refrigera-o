@@ -14,7 +14,6 @@ body{
  header{
     display: grid;
     grid-column: 1/4;
-    width: 153vh;
     background-color: white;
     position:sticky;
     top:1;
